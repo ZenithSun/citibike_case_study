@@ -48,7 +48,7 @@ This report presents a detailed analysis of CitiBike user demographics and the t
   </tr>
   <tr>
     <td align="center">Hourly Outflow Heatmap</td>
-    <td align="center">Hourly Outflow Heatmap</td>
+    <td align="center">Hourly Inflow Heatmap</td>
   </tr>
 </table>
 - Dynamic Visualization links

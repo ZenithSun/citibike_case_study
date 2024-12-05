@@ -40,11 +40,13 @@ This report presents a detailed analysis of CitiBike user demographics and the t
 - CitiBike stations in **downtown and midtown Manhattan** experience the highest activity, aligning with business districts and major transportation hubs.
 
 - **Morning hours** show significant inflow to stations near office areas, while **evening hours** reflect the opposite flow, with bikes returning to residential areas.
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="image/outflow.gif" alt="GIF 1" style="width: 45%; margin-right: 10px;">
-    <img src="image/inflow.gif" alt="GIF 2" style="width: 45%;">
-</div>
 
+<table>
+  <tr>
+    <td><img src="image/outflow.gif" alt="GIF 1" width="300"></td>
+    <td><img src="image/inflow.gif" alt="GIF 2" width="300"></td>
+  </tr>
+</table>
 - Dynamic Visualization links
     - [Hourly Outflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_start_hour_heatmap_animation.html)
     - [Hourly Inflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_stop_hour_heatmap_animation.html)

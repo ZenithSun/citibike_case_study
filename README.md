@@ -43,8 +43,8 @@ This report presents a detailed analysis of CitiBike user demographics and the t
 
 <table>
   <tr>
-    <td><img src="image/outflow.gif" alt="GIF 1" width="300"></td>
-    <td><img src="image/inflow.gif" alt="GIF 2" width="300"></td>
+    <td><img src="image/outflow.gif" alt="GIF 1" width="400"></td>
+    <td><img src="image/inflow.gif" alt="GIF 2" width="400"></td>
   </tr>
 </table>
 - Dynamic Visualization links

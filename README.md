@@ -23,6 +23,7 @@ This report presents a detailed analysis of CitiBike user demographics and the t
   - Maintaining focus on **subscribers** ensures loyalty and consistent usage but limits short-term revenue growth.
 
   ![distribution of gender and user type](image/distribution_of_usertype_and_gender_bar_charts.png)
+  
 ---
 
 ## **2. Trips Temporal and Geospatial Patterns**
@@ -37,7 +38,13 @@ This report presents a detailed analysis of CitiBike user demographics and the t
 
 ### **2.2 Geolocation Distribution of CitiBike Station Usage Over Time**
 - CitiBike stations in **downtown and midtown Manhattan** experience the highest activity, aligning with business districts and major transportation hubs.
+
 - **Morning hours** show significant inflow to stations near office areas, while **evening hours** reflect the opposite flow, with bikes returning to residential areas.
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="image/outflow.gif" alt="GIF 1" style="width: 45%; margin-right: 10px;">
+    <img src="image/inflow.gif" alt="GIF 2" style="width: 45%;">
+</div>
+
 - Dynamic Visualization links
     - [Hourly Outflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_start_hour_heatmap_animation.html)
     - [Hourly Inflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_stop_hour_heatmap_animation.html)
@@ -93,3 +100,5 @@ CitiBike stations were grouped into three clusters based on their typical usage 
     ![Cluster 2 Usage](image/typical_shape_for_cluster_2.png)
 
 For additional details and interactive visualizations, visit the full case study [here](https://zenithsun.github.io/citibike_case_study/Citibike_Case_Study.html).
+
+

@@ -51,7 +51,9 @@ This report presents a detailed analysis of CitiBike user demographics and the t
     <td align="center">Hourly Inflow Heatmap</td>
   </tr>
 </table>
+
 - Dynamic Visualization links
+
     - [Hourly Outflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_start_hour_heatmap_animation.html)
     - [Hourly Inflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_stop_hour_heatmap_animation.html)
 

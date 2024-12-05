@@ -38,7 +38,9 @@ This report presents a detailed analysis of CitiBike user demographics and the t
 ### **2.2 Geolocation Distribution of CitiBike Station Usage Over Time**
 - CitiBike stations in **downtown and midtown Manhattan** experience the highest activity, aligning with business districts and major transportation hubs.
 - **Morning hours** show significant inflow to stations near office areas, while **evening hours** reflect the opposite flow, with bikes returning to residential areas.
-
+- Dynamic Visualization links
+    - [Hourly Outflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_start_hour_heatmap_animation.html)
+    - [Hourly Inflow Heatmap of CitiBike Stations](https://zenithsun.github.io/citibike_case_study/html/trip_stop_hour_heatmap_animation.html)
 
 ### **2.3 Number of Trips by Month and Day of Week**
 - **Seasonality**: Usage peaks during summer months (June–August) and declines during winter, reflecting weather-related preferences.

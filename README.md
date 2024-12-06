@@ -70,7 +70,7 @@ This report presents a detailed analysis of CitiBike user demographics and the t
 ## **3. Citibike Trips Taken per Day Forecast**
 
 ### **3.1 Prediction Performance Metrics**
-- **Overall User Group**:
+- **Overall User Group** (Subscribers + Customers):
   - Relatively low prediction errors, indicating good model performance.
   - Mean Absolute Percentage Error (MAPE): **12.67%**
   
@@ -97,14 +97,16 @@ CitiBike stations were grouped into three clusters based on their typical usage 
 1. **Cluster 0 (Office Areas)**:
    - High inflow during **morning commute hours** and high outflow during **evening commute hours**.
    - Stations in this cluster are likely located near office buildings and business districts.
+   - Below is the 24-hour netflow of Citibike Stations in Cluster 0
     ![Cluster 0 Usage](image/typical_shape_for_cluster_0.png)
-
-2. **Cluster 1 (Residential Areas)**:
+3. **Cluster 1 (Residential Areas)**:
    - High outflow in the **morning** and high inflow in the **evening**, reflecting residential areas or transit hubs where users begin or end their commutes.
+   - Below is the 24-hour netflow of Citibike Stations in Cluster 1
     ![Cluster 1 Usage](image/typical_shape_for_cluster_1.png)
 
-3. **Cluster 2 (Balanced Stations)**:
+4. **Cluster 2 (Balanced Stations)**:
    - Consistent inflow and outflow throughout the day, with a **net flow close to zero**. These stations may serve areas with a mix of residential, commercial, and recreational facilities.
+   - Below is the 24-hour netflow of Citibike Stations in Cluster 2
     ![Cluster 2 Usage](image/typical_shape_for_cluster_2.png)
 
 For additional details and interactive visualizations, visit the full case study [here](https://zenithsun.github.io/citibike_case_study/Citibike_Case_Study.html).

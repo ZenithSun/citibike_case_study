@@ -99,15 +99,19 @@ CitiBike stations were grouped into three clusters based on their typical usage 
    - Stations in this cluster are likely located near office buildings and business districts.
    - Below is the 24-hour netflow of Citibike Stations in Cluster 0
     ![Cluster 0 Usage](image/typical_shape_for_cluster_0.png)
-3. **Cluster 1 (Residential Areas)**:
+2. **Cluster 1 (Residential Areas)**:
    - High outflow in the **morning** and high inflow in the **evening**, reflecting residential areas or transit hubs where users begin or end their commutes.
    - Below is the 24-hour netflow of Citibike Stations in Cluster 1
     ![Cluster 1 Usage](image/typical_shape_for_cluster_1.png)
 
-4. **Cluster 2 (Balanced Stations)**:
+3. **Cluster 2 (Balanced Stations)**:
    - Consistent inflow and outflow throughout the day, with a **net flow close to zero**. These stations may serve areas with a mix of residential, commercial, and recreational facilities.
    - Below is the 24-hour netflow of Citibike Stations in Cluster 2
     ![Cluster 2 Usage](image/typical_shape_for_cluster_2.png)
+
+4. Dynamic Visualization link
+
+    - [Clustered CitiBike Stations Map](https://zenithsun.github.io/citibike_case_study/html/clustered_stations_map.html)
 
 For additional details and interactive visualizations, visit the full case study [here](https://zenithsun.github.io/citibike_case_study/Citibike_Case_Study.html).
 
